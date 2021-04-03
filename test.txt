@@ -5,3 +5,4 @@ a
 sample4 git
 q2
 github
+とても分かりやすい説明、\n ありがとうございました！
